@@ -24,7 +24,6 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
-                    Text(text = "see i had to do the newa commit to the fildre. ")
                 }
             }
         }
