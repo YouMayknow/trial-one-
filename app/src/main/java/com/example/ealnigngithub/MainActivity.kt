@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.padding(innerPadding)
                     )
                     Text(text = "see i had to do the newa commit to the fildre. ")
+                    see how i suck the tigns and then attemptot maek them correct like i did today,
                 }
             }
         }
