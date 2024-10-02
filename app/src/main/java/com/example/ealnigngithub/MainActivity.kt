@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
-                    sucking up the second time
+                    Text(text = "here is the old  commif tor coniflcit thaat is arrishsing .  ")
                 }
                 println("not cavign the coomit and then geeting baxk for chekci what happen")
 
