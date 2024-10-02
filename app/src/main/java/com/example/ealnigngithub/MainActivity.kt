@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                         name = "Android",
                         modifier = Modifier.padding(innerPadding)
                     )
+                    Text(text = "here is the new commif tor coniflcit ")
                 }
                 println("not cavign the coomit and then geeting baxk for chekci what happen")
 
