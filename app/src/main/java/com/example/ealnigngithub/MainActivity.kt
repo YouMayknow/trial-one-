@@ -26,6 +26,9 @@ class MainActivity : ComponentActivity() {
                     )
                     sucking up the second time
                 }
+                println("not cavign the coomit and then geeting baxk for chekci what happen")
+
+                println("checking  the work with the experimental branch ")
             }
         }
     }
