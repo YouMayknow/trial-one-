@@ -29,6 +29,7 @@ class MainActivity : ComponentActivity() {
 
                 println("checking  the work with the experimental branch ")
                 println("adding the commmti 4 ")
+                Text(text = "adding the commit via terminal")
             }
         }
     }
